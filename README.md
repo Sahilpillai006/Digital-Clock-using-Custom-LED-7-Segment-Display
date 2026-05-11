@@ -117,7 +117,9 @@ The blinking colon LEDs act as a visual seconds indicator.
 
 ## Preview
 
-(Add project images here)
+<img width="420" height="306" alt="image" src="https://github.com/user-attachments/assets/e0e79f80-8494-443a-919d-c671ea145e1e" />
+<img width="493" height="307" alt="image" src="https://github.com/user-attachments/assets/8d7033fc-655b-4548-a66d-ec3376afb304" />
+<img width="526" height="365" alt="image" src="https://github.com/user-attachments/assets/69f18304-3870-4bed-aeb9-a2577232c391" />
 
 ---
 
