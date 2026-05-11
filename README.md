@@ -24,7 +24,6 @@ The clock displays time in HH:MM format and includes manual time setting using p
 - Arduino Nano
 - 92 Red LEDs
 - Prototype PCB (Dot PCB)
-- 220 Ohm Resistors
 - Push Buttons
 - Jumper Wires
 - USB Power Supply
