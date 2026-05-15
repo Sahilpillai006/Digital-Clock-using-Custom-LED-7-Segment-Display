@@ -123,6 +123,13 @@ The blinking colon LEDs act as a visual seconds indicator.
 
 ---
 
+## Author
+
+**Sahil B Pillai**  
+Engineer | Robotics & AI Enthusiast  
+
+---
+
 ## License
 
-MIT License
+This project is open-source and available under the MIT License.
